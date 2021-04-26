@@ -1,2 +1,2 @@
 # spring-boot-zipkin
-This repo contain simple spring boot application that is integrated with Zipkin for distributed tracing.
+This repo demo the use of zipkin tracing for Spring boot application
